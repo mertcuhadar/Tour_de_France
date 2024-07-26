@@ -889,7 +889,7 @@ var config = {
         },
         {
             id: 'genel3',
-            alignment: 'full',
+            alignment: 'fully',
             hidden: false,
             title: 'Vingegaard ikinci, Evenepoel üçüncü oldu',
             image: 'https://img.aso.fr/core_app/img-cycling-tdf-jpg/arrivee-023/61100/0:0,1200:800-1000-0-70/1638f',
