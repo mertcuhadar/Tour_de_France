@@ -112,7 +112,7 @@ var config = {
             id: '2f',
             alignment: 'left',
             hidden: false,
-            title: '2. Etap Kaçış Grubuna!<style="width: 400%;">',
+            title: '2. Etap Kaçış Grubuna!',
             image: 'https://hips.hearstapps.com/hmg-prod/images/kevin-vauquelin-of-france-and-team-arkea-b-b-hotels-news-photo-1719762381.jpg?resize=1200:*',
             description: 'Tour de France 2024 te henüz ikinci günde kaçış grubu ilk zaferini aldı. Bologna da sona eren etabı Arkéa-B&B Hotels ten Kévin Vauquelin kazandı ve takımına tarihinin ilk Tour de France etap zaferini getirdi.',
             location: {
