@@ -13,7 +13,7 @@ var config = {
     title: 'Tour de France 2024',
     subtitle: 'Turun öyküsü',
     byline: 'Mert Cuhadar',
-    footer: 'MEF Üniversitesi',
+    footer: 'Fotoğraflar: A.S.O - Amaury Sport Organisation',
     chapters: [
         {
             id: 'tour',
@@ -21,7 +21,7 @@ var config = {
             hidden: false,
             title: '',
             image: 'https://cdn.xsolla.net/merchant-bucket-prod/files/uploaded/sitebuilder/68486/a65f1521edb252df2513cd9bddf123c8.png',
-            description: '1903 ten beri düzenlenen, yol bisikletinin en büyük müsabakası Fransa Bisiklet Turu, 29 Haziran-21 Temmuz tarihleri arasında 111. kez koşuldu. İtalya dan başlayan Fransa Bisiklet Turu, tarihinde ilk defa, Paris Olimpiyatları sebebiyle Nice te sona erdi.',
+            description: '1903`ten beri düzenlenen, yol bisikletinin en büyük müsabakası Fransa Bisiklet Turu, 29 Haziran-21 Temmuz tarihleri arasında 111. kez koşuldu. İtalya dan başlayan Fransa Bisiklet Turu, tarihinde ilk defa, Paris Olimpiyatları sebebiyle Nice te sona erdi.<iframe frameborder="0" class="juxtapose" width="100%" height="200"',
             location: {
                 center: [3.52341, 46.31748],
                 zoom: 5,
@@ -51,7 +51,7 @@ var config = {
             hidden: false,
             title: 'Etap 1',
             image: 'https://img.aso.fr/core_app/img-cycling-tdf-jpg/tdf24-profils-web-e-tape-1/55155/0:0,1005:603-960-0-90/436fa',
-            description: 'Floransa dan başlayan, yarı dağlık 209 kilometrelik ilk etap Rimini de sona erdi.',
+            description: 'Floransa`dan başlayan, yarı dağlık 209 kilometrelik ilk etap Rimini de sona erdi.',
             location: {
                 center: [11.29760, 43.73794],
                 zoom: 16,
@@ -76,7 +76,7 @@ var config = {
             hidden: false,
             title: 'Romain Bardet',
             image: 'https://img.aso.fr/core_app/img-cycling-tdf-jpg/header-e1-arrivee/56637/0:0,2000:890-1200-0-70/b7207', 
-            description: '1. etabı Team dsm-firmenich PostNL in Fransız yıldızı Romain Bardet kazandı! Bardet kariyerinde ilk defa sarı mayoyu giymeye hak kazandı. <img src="https://pbs.twimg.com/media/GRQLN4BWIAAJxK1?format=jpg&name=large" style="width: 100%;">',
+            description: '1. etabı Team dsm-firmenich PostNL`in Fransız yıldızı Romain Bardet kazandı! Bardet kariyerinde ilk defa sarı mayoyu giymeye hak kazandı. <img src="https://pbs.twimg.com/media/GRQLN4BWIAAJxK1?format=jpg&name=large" style="width: 100%;">',
             location: {
                 center: [12.57651, 44.05963],
                 zoom: 12.52,
@@ -95,7 +95,7 @@ var config = {
             hidden: false,
             title: 'Etap 2',
             image: 'https://img.aso.fr/core_app/img-cycling-tdf-jpg/2/54053/0:0,1005:604-960-0-90/f6cb9',
-            description: 'Tour de France in İtalya topraklarındaki 199.2 kilometrelik yarı dağlık ikinci etabı Cesenatico dan başlayarak Bologna da sona erdi.',
+            description: 'Tour de France`in İtalya topraklarındaki 199.2 kilometrelik yarı dağlık ikinci etabı Cesenatico`dan başlayarak Bologna`da sona erdi.',
             location: {
                 center: [12.388, 44.210],
                 zoom: 15,
@@ -112,9 +112,9 @@ var config = {
             id: '2f',
             alignment: 'left',
             hidden: false,
-            title: '2. Etap Kaçış Grubuna!',
+            title: '2. Etap Kaçış Grubuna!<style="width: 400%;">',
             image: 'https://hips.hearstapps.com/hmg-prod/images/kevin-vauquelin-of-france-and-team-arkea-b-b-hotels-news-photo-1719762381.jpg?resize=1200:*',
-            description: 'Tour de France 2024 te henüz ikinci günde kaçış grubu ilk zaferini aldı. Bologna da sona eren etabı Arkéa-B&B Hotels ten Kévin Vauquelin kazandı ve takımına tarihinin ilk Tour de France etap zaferini getirdi.',
+            description: 'Tour de France 2024`te henüz ikinci günde kaçış grubu ilk zaferini aldı. Bologna da sona eren etabı Arkéa-B&B Hotels`ten Kévin Vauquelin kazandı ve takımına tarihinin ilk Tour de France etap zaferini getirdi.',
             location: {
                 center: [11.329, 44.490],
                 zoom: 18,
@@ -133,7 +133,7 @@ var config = {
             hidden: false,
             title: 'Etap 3',
             image: 'https://img.aso.fr/core_app/img-cycling-tdf-jpg/3/54061/0:0,1005:603-960-0-90/a4155',
-            description: 'Plaisance den Torino ya uzanan 246 kilometrelik düz etap sprinterler için ilk şans oldu.',
+            description: 'Plaisance`den Torino`ya uzanan 246 kilometrelik düz etap sprinterler için ilk şans oldu.',
             location: {
                 center: [9.634, 45.0554],
                 zoom: 15,
@@ -152,7 +152,7 @@ var config = {
             hidden: false,
             title: 'İlk toplu sprintin kazananı Biniam Girmay!',
             image: 'https://img.aso.fr/core_app/img-cycling-tdf-jpg/header-hp-etape-3/57097/0:0,2410:1132-2400-0-70/ffd02',
-            description: 'Tour de France in ilk toplu sprintine sahne olan 3. etabı Intermarché-Wanty nin Eritreli yıldızı Biniam Girmay kazandı! Biniam Girmay Tour de France de etap kazanan ilk siyah sporcu olarak tarih yazdı.',
+            description: 'Tour de France`in ilk toplu sprintine sahne olan 3. etabı Intermarché-Wanty`nin Eritreli yıldızı Biniam Girmay kazandı! Biniam Girmay Tour de France`de etap kazanan ilk siyah sporcu olarak tarih yazdı.',
             location: {
                 center: [7.692, 45.071],
                 zoom: 12,
@@ -171,7 +171,7 @@ var config = {
             hidden: false,
             title: 'Etap 4',
             image: 'https://img.aso.fr/core_app/img-cycling-tdf-jpg/4/54049/0:0,1005:603-960-0-90/4e94c',
-            description: 'Pinerolo Valloire arasında koşulan 139.6 kilometrelik dağlık etapla birlikte peloton Tour de France in anavatanı Fransa ya giriş yaptı',
+            description: 'Pinerolo Valloire arasında koşulan 139.6 kilometrelik dağlık etapla birlikte peloton Tour de France`in anavatanı Fransa`ya giriş yaptı',
             location: {
                 center: [7.319, 44.886],
                 zoom: 15,
@@ -190,7 +190,7 @@ var config = {
             hidden: false,
             title: 'İlk dağ etabının galibi Tadej Pogacar!',
             image: 'https://img.aso.fr/core_app/img-cycling-tdf-jpg/header-hp-etape-4/57282/0:0,2000:890-1200-0-70/51189',
-            description: 'UAE Team Emirates sporcusu, iki Tour de France galibi <a href="https://tr.wikipedia.org/wiki/Tadej_Poga%C4%8Dar#:~:text=Tadej%20Poga%C4%8Dar%2C%20(Slovence%20telaffuz%3A,Sloven%20bir%20yol%20bisikleti%20yar%C4%B1%C5%9F%C3%A7%C4%B1s%C4%B1d%C4%B1r.&text=Sadece%2020%20ya%C5%9F%C4%B1ndayken%202019%20Tour,kazanan%20en%20gen%C3%A7%20bisiklet%C3%A7i%20oldu." target="_blank" title="Opens in a new window"><strong>Tadej Pogacar</strong></a> ilk dağlık etap sonucu Fransa ya sarı mayoyla giriş yaptı. <img src="https://todaycycling.com/wp-content/uploads/2024/07/tour-de-france-2024-etape-4-classement-general-maillot-jaune-du-2-juillet.jpg" style="width: 100%;"> ',
+            description: 'UAE Team Emirates sporcusu, iki Tour de France galibi <a href="https://tr.wikipedia.org/wiki/Tadej_Poga%C4%8Dar#:~:text=Tadej%20Poga%C4%8Dar%2C%20(Slovence%20telaffuz%3A,Sloven%20bir%20yol%20bisikleti%20yar%C4%B1%C5%9F%C3%A7%C4%B1s%C4%B1d%C4%B1r.&text=Sadece%2020%20ya%C5%9F%C4%B1ndayken%202019%20Tour,kazanan%20en%20gen%C3%A7%20bisiklet%C3%A7i%20oldu." target="_blank" title="Opens in a new window"><strong>Tadej Pogacar</strong></a> ilk dağlık etap sonucu Fransa`ya sarı mayoyla giriş yaptı. <img src="https://todaycycling.com/wp-content/uploads/2024/07/tour-de-france-2024-etape-4-classement-general-maillot-jaune-du-2-juillet.jpg" style="width: 100%;"> ',
             location: {
                 center: [6.430, 45.164],
                 zoom: 10,
@@ -266,7 +266,7 @@ var config = {
             hidden: false,
             title: '6. etabın galibi: Dylan Groenewegen',
             image: 'https://pbs.twimg.com/media/GRpzVQZbMAEYYYn?format=jpg&name=large',
-            description: 'Toplu sprint finişiyle biten 6. etabı Team Jayco AlUla nın Hollandalı sprinteri Dylan Groenewegen kazandı!',
+            description: 'Toplu sprint finişiyle biten 6. etabı Team Jayco AlUla`nın Hollandalı sprinteri Dylan Groenewegen kazandı!',
             location: {
                 center: [5.050, 47.315],
                 zoom: 15,
@@ -285,7 +285,7 @@ var config = {
             hidden: false,
             title: 'Etap 7',
             image: 'https://img.aso.fr/core_app/img-cycling-tdf-jpg/7/54051/0:0,1005:603-960-0-90/f43e1',
-            description: 'Tour de France 2024 ün ilk bireysel zamana karşı yarışı Nuits-Saint-Georges Gevrey-Chambertin arasında 25.3 kilometrelik bir mücadeleye sahne oldu.',
+            description: 'Tour de France`in ilk bireysel zamana karşı yarışı Nuits-Saint-Georges Gevrey-Chambertin arasında 25.3 kilometrelik bir mücadeleye sahne oldu.',
             location: {
                 center: [4.952, 47.140],
                 zoom: 16,
@@ -304,7 +304,7 @@ var config = {
             hidden: false,
             title: 'İlk etap galibiyeti: Remco Evenepoel',
             image: 'https://img.aso.fr/core_app/img-cycling-tdf-jpg/header-hp-etape-7-1/57966/0:0,2000:890-2400-0-70/a73b2',
-            description: 'İlk Tour de France ine katılan Soudal Quick-Step in lideri Remco Evenepoel etap galibiyetiyle tanıştı. Müthiş bir efora sahne olan etapta Remco, Tadej Pogacar ın 12 saniye önünde yarışı tamamladı. <img src="https://todaycycling.com/wp-content/uploads/2024/07/tour-de-france-2024-etape-7-classement-complet.jpg">',
+            description: 'İlk Tour de France`ine katılan Soudal Quick-Step in lideri Remco Evenepoel etap galibiyetiyle tanıştı. Müthiş bir efora sahne olan etapta Remco, Tadej Pogacar`ın 12 saniye önünde yarışı tamamladı. <img src="https://todaycycling.com/wp-content/uploads/2024/07/tour-de-france-2024-etape-7-classement-complet.jpg">',
             location: {
                 center: [4.975, 47.228],
                 zoom: 15,
@@ -361,7 +361,7 @@ var config = {
             hidden: false,
             title: 'Etap 9',
             image: 'https://img.aso.fr/core_app/img-cycling-tdf-jpg/9/54057/0:0,1005:604-960-0-90/76911',
-            description: 'Tour de France te ilk hafta 14 toprak sektörün bulunduğu klasik görünümlü 9. etapla Troyes te kapandı.',
+            description: 'Tour de France`te ilk hafta 14 toprak sektörün bulunduğu klasik görünümlü 9. etapla Troyes`te kapandı.',
             location: {
                 center: [4.540, 48.191],
                 zoom: 9,
@@ -380,7 +380,7 @@ var config = {
             hidden: false,
             title: 'Beyaz etabın kazananı Turgis',
             image: 'https://www.francebleu.fr/s3/cruiser-production/2023/10/3cd48b92-e65f-40b2-a219-bb58ae281d74/1200x680_sc_cheminsblancsbarsuraubeernard-papongetty.jpg',
-            description: 'Tozun dumana katıldığı etabı Total Energies sporcusu Antony Turgis kazandı. Böylelikle Total Energies Tour de France 2024 ün ilk etap galibiyetini elde etti. <img src="https://img.aso.fr/core_app/img-cycling-tdf-jpg/header-hp-etape-9-2/58401/0:0,2000:890-2400-0-70/fc7f4">',
+            description: 'Tozun dumana katıldığı etabı Total Energies sporcusu Antony Turgis kazandı. Böylelikle Total Energies, Tour de France 2024`ün ilk etap galibiyetini elde etti. <img src="https://img.aso.fr/core_app/img-cycling-tdf-jpg/header-hp-etape-9-2/58401/0:0,2000:890-2400-0-70/fc7f4">',
             location: {
                 center: [4.540, 48.191],
                 zoom: 9,
@@ -418,7 +418,7 @@ var config = {
             hidden: false,
             title: 'Jasper Philipsen',
             image: 'https://img.aso.fr/core_app/img-cycling-tdf-jpeg/photosprint-2024-10/58681/0:0,1200:800-1000-0-70/db0f0',
-            description: '2023 ün yeşil mayo sahibi, Alpecin-Deceuninck in Belçikalı yıldızı Jasper Philipsen, etabı Girmay ın önünde tamamlayarak ilk etap galibiyetini kazandı. <img src="https://img.aso.fr/core_app/img-cycling-tdf-png/header-hp-stage-10-min/58685/0:0,2000:890-2400-0-70/d545e">',
+            description: '2023`ün yeşil mayo sahibi, Alpecin-Deceuninck`in Belçikalı yıldızı Jasper Philipsen, etabı Girmay`ın önünde tamamlayarak ilk etap galibiyetini kazandı. <img src="https://img.aso.fr/core_app/img-cycling-tdf-png/header-hp-stage-10-min/58685/0:0,2000:890-2400-0-70/d545e">',
             location: {
                 center: [2.393,46.808],
                 zoom: 12,
@@ -437,7 +437,7 @@ var config = {
             hidden: false,
             title: 'Etap 11',
             image: 'https://img.aso.fr/core_app/img-cycling-tdf-jpg/11/54055/0:0,1005:603-960-0-90/b3a87',
-            description: '211 kilometrelik dağ etabı ÉVAUX-Les-Bains ten başlayarak Le Lioran da tamamlandı.',
+            description: '211 kilometrelik dağ etabı ÉVAUX-Les-Bains`ten başlayarak Le Lioran`da tamamlandı.',
             location: {
                 center: [1.796,45.664],
                 zoom: 8,
@@ -456,7 +456,7 @@ var config = {
             hidden: false,
             title: 'Vingegaard geri döndü!',
             image: 'https://img.aso.fr/core_app/img-cycling-tdf-jpeg/photosprint-2024-11/58883/0:0,1200:800-1000-0-70/55f7d',
-            description: 'Henüz geçtiğimiz aylarda Bask bisiklet turunda kaza geçirip ölümden dönen Visma-Lease a Bike ın Danimarkalı yıldızı Jonas Vingegaard rakibi Pogacar ı sprintte geçerek etap galibiyetini göğüsledi. <img src="https://img.aso.fr/core_app/img-cycling-tdf-jpg/header-hp-etape-11/58893/0:0,2000:890-2400-0-70/5ad2d"> Son iki Tour de France in galibi Jonas Vingegaard formsuz geldiği 2024 turunda etap kazanarak büyük bir geri dönüşe ima attı.',
+            description: 'Henüz geçtiğimiz aylarda Bask Bisiklet Turu`nda kaza geçirip ölümden dönen Visma-Lease a Bike`ın Danimarkalı yıldızı Jonas Vingegaard rakibi Pogacar`ı son metrelerde geçerek etap galibiyetini göğüsledi. <img src="https://img.aso.fr/core_app/img-cycling-tdf-jpg/header-hp-etape-11/58893/0:0,2000:890-2400-0-70/5ad2d"> Son iki Tour de France in galibi Jonas Vingegaard formsuz geldiği 2024 turunda etap kazanarak büyük bir geri dönüşe ima attı.',
             location: {
                 center: [2.750,45.091],
                 zoom: 15,
@@ -475,7 +475,7 @@ var config = {
             hidden: false,
             title: 'Etap 12',
             image: 'https://img.aso.fr/core_app/img-cycling-tdf-jpg/12/54062/0:0,1005:603-960-0-90/0960b',
-            description: 'Tour de France in 12. etabı, Aurillac tan başlayıp Villeneuve-Sur-Lot ta noktalanan 203.6 kilometrelik düz etaba sahne oldu.',
+            description: 'Tour de France`in 12. etabı, Aurillac`tan başlayıp Villeneuve-Sur-Lot`ta noktalanan 203.6 kilometrelik düz etaba sahne oldu.',
             location: {
                 center: [2.366,44.899],
                 zoom: 12,
@@ -494,7 +494,7 @@ var config = {
             hidden: false,
             title: 'Girmay yine zirvede',
             image: 'https://pbs.twimg.com/media/GSN1m18XMAEGWe3?format=jpg&name=large',
-            description: 'Intermarche-Wanty nin yıldız ismi Biniam Girmay, Wout Van Aert ın önünde tamamladığı sprint ile üçüncü kez etap galibiyeti elde ederek tüm Afrika kıtasını gururlandırmayı sürdürdü. <img src=" https://img.aso.fr/core_app/img-cycling-tdf-jpg/podium-vert/59099/0:0,1200:800-1000-0-70/a4b1b">',
+            description: 'Intermarche-Wanty`nin yıldız ismi Biniam Girmay, Wout Van Aert`ın önünde tamamladığı sprint ile üçüncü kez etap galibiyeti elde ederek tüm Afrika kıtasını gururlandırmayı sürdürdü. <img src=" https://img.aso.fr/core_app/img-cycling-tdf-jpg/podium-vert/59099/0:0,1200:800-1000-0-70/a4b1b">',
             location: {
                 center: [0.717,44.417],
                 zoom: 12,
@@ -532,7 +532,7 @@ var config = {
             hidden: false,
             title: 'Jasper Philipsen ikiledi',
             image: 'https://img.aso.fr/core_app/img-cycling-tdf-jpg/et13-960-x-800-jpg/59277/0:0,960:800-1920-0-70/aa392',
-            description: 'Jasper Philipsen (Alpecin-Deceuninck), Pau daki son düzlükte gösterdiği mükemmel ivmeyle, 13. etapta 2024 Tour de France ın ikinci galibiyetini garantiledi. Philipsen, telaşlı bir etabın sonunda Wout van Aert (Visma-Lease a Bike), Pascal Ackermann (Israel-Premier Tech), Biniam Girmay (Intermarche-Wanty) ve Nikias Arndt ı (Bahrain Victorious) geçerek etap galibiyetini kazandı.',
+            description: 'Jasper Philipsen (Alpecin-Deceuninck), Pau`daki son düzlükte gösterdiği mükemmel ivmeyle, 13. etapta 2024 Tour de France`in ikinci galibiyetini garantiledi. Philipsen, telaşlı bir etabın sonunda Wout van Aert (Visma-Lease a Bike), Pascal Ackermann (Israel-Premier Tech), Biniam Girmay (Intermarche-Wanty) ve Nikias Arndt`ı (Bahrain Victorious) geçerek etap galibiyetini kazandı.',
             location: {
                 center: [-0.376,43.304],
                 zoom: 13,
@@ -570,7 +570,7 @@ var config = {
             hidden: false,
             title: 'Tadej zirve mücadelesini sürdürüyor!',
             image: 'https://img.aso.fr/core_app/img-cycling-tdf-jpg/depart-006/59397/0:0,1200:800-1000-0-70/5040b',
-            description: 'Sarı mayolu Sloven yıldız Tadej Pogacar, son tırmanışta yaptığı efsanevi atakla Danimarkalı fenomen Jonas Vingegaard ın 39 saniye, Remco Evenepoel in 1 dakika 10 saniye önünde etabı tamamladı. <img src="https://pbs.twimg.com/media/GSYK4KFXAAAz_3V?format=jpg&name=large">',
+            description: 'Sarı mayolu Sloven yıldız Tadej Pogacar, son tırmanışta yaptığı efsanevi atakla Danimarkalı fenomen Jonas Vingegaard`ın 39 saniye, Remco Evenepoel`un 1 dakika 10 saniye önünde etabı tamamladı. <img src="https://pbs.twimg.com/media/GSYK4KFXAAAz_3V?format=jpg&name=large">',
             location: {
                 center: [0.326,42.820],
                 zoom: 13,
@@ -627,7 +627,7 @@ var config = {
             hidden: false,
             title: 'Pirenelerin sefiri: Tadej Pogacar',
             image: 'https://img.aso.fr/core_app/img-cycling-tdf-jpg/arrivee-003/59791/0:0,1200:799-1000-0-70/18260',
-            description: 'Tour de France te iki günlük büyük genel klasman serisinin ikinci gününde de kader değişmedi: Pogacar, herkesten önde istediğini aldı, bu kez 1 dakikanın üzerinde farkla kazandı!',
+            description: 'Tour de France`te iki günlük büyük genel klasman serisinin ikinci gününde de kader değişmedi: Pogacar, herkesten önde istediğini aldı, bu kez 1 dakikanın üzerinde farkla kazandı!',
             location: {
                 center: [1.680,42.743],
                 zoom: 13,
@@ -646,7 +646,7 @@ var config = {
             hidden: false,
             title: 'Etap 16',
             image: 'https://pbs.twimg.com/media/GSmjJOzXsAAXUEu?format=jpg&name=large',
-            description: 'Zorlu Pireneler sonrası, Tour de France in son haftasına 188.6 kilometrelik düz etapla başladık.',
+            description: 'Zorlu Pireneler sonrası, Tour de France in son haftasına 188.6 kilometrelik düz etapla başlandı.',
             location: {
                 center: [3.097,43.115],
                 zoom: 14.6,
@@ -684,7 +684,7 @@ var config = {
             hidden: false,
             title: 'Etap 17',
             image: 'https://img.aso.fr/core_app/img-cycling-tdf-jpg/17/54065/0:0,1005:603-960-0-90/68d55',
-            description: 'Saint-Paul-Trois-Châteux tan başlayarak SuperDevoluy da noktalanan yarı dağlık 17. etap genel klasmancılar için görece sakin geçerken, etap galibiyeti için mücadele eden takımların yarışına sahne oldu.',
+            description: 'Saint-Paul-Trois-Châteux`tan başlayarak SuperDevoluy`da noktalanan yarı dağlık 17. etap genel klasmancılar için görece sakin geçerken, etap galibiyeti için mücadele eden takımların yarışına sahne oldu.',
             location: {
                 center: [4.863,44.342],
                 zoom: 11.2,
@@ -703,7 +703,7 @@ var config = {
             hidden: false,
             title: '17. etabın galibi: Carapaz',
             image: 'https://img.aso.fr/core_app/img-cycling-tdf-png/header-hp-vainqueur-e17-min/60174/0:0,2000:890-2400-0-70/46028',
-            description: 'EF Education ın Ekvatorlu olimpiyat şampiyonu Richard Carapaz SuperDevoluy finiş çizgisini Simon Yates in 37 saniye önünde geçti.',
+            description: 'EF Education`ın Ekvatorlu olimpiyat şampiyonu Richard Carapaz SuperDevoluy finiş çizgisini Simon Yates`in 37 saniye önünde geçti.',
             location: {
                 center: [5.967,44.692],
                 zoom: 13,
@@ -760,7 +760,7 @@ var config = {
             hidden: false,
             title: 'Etap 19',
             image: 'https://img.aso.fr/core_app/img-cycling-tdf-jpg/19/54059/0:0,1005:604-960-0-90/e71d0',
-            description: 'Embrun dan başlayan 144.6 kilometrelik zorlu dağ etabı Isola 2000 de son buldu.',
+            description: 'Embrun`dan başlayan 144.6 kilometrelik zorlu dağ etabı Isola 2000`de son buldu.',
             location: {
                 center: [6.515,44.568],
                 zoom: 13,
@@ -779,7 +779,7 @@ var config = {
             hidden: false,
             title: 'Pogacar şampiyonluğa gidiyor!',
             image: 'https://img.aso.fr/core_app/img-cycling-tdf-jpg/arrivee/60591/0:0,1200:799-2400-0-70/9489b',
-            description: 'Genel klasman mücadelesinde kritik günde Tadej Pogacar (BAE Team Emirates), yarışın bitimine iki gün kala Isola 2000i fethederek Kraliçe Etapta, podyum rakipleri Jonas Vingegaard (Visma-Lease a Bike) ve Remco Evenepoel (Soudal-Quick Step) karşısında lider pozisyonunu güçlendirdi. Sloven yıldız Tadej Pogacar 4. etap galibiyetini şöyle kutladı: <img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/4N6OX6Q5F5JRZADTFEC3O4ZHIA.jpg">',
+            description: 'Genel klasman mücadelesinde kritik günde Tadej Pogacar (BAE Team Emirates), yarışın bitimine iki gün kala Isola 2000`i fethederek Kraliçe Etap`ta, podyum rakipleri Jonas Vingegaard (Visma-Lease a Bike) ve Remco Evenepoel (Soudal-Quick Step) karşısında lider pozisyonunu güçlendirdi. Sloven yıldız Tadej Pogacar 4. etap galibiyetini şöyle kutladı: <img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/4N6OX6Q5F5JRZADTFEC3O4ZHIA.jpg">',
             location: {
                 center: [7.134,44.197],
                 zoom: 13,
@@ -798,7 +798,7 @@ var config = {
             hidden: false,
             title: 'Etap 20',
             image: 'https://img.aso.fr/core_app/img-cycling-tdf-jpg/20/54067/0:0,1005:604-960-0-90/d5c2f',
-            description: 'Nice ten başlayan 132.8 kilometrelik son dağlık etap, Col de la Couillole de son buldu.',
+            description: 'Nice`ten başlayan 132.8 kilometrelik son dağlık etap, Col de la Couillole`de son buldu.',
             location: {
                 center: [7.284,43.714],
                 zoom: 15,
@@ -817,7 +817,7 @@ var config = {
             hidden: false,
             title: 'Yenilmez!',
             image: 'https://img.aso.fr/core_app/img-cycling-tdf-jpg/arrivee/60864/0:0,1200:801-1000-0-70/eaa2c',
-            description: 'Son dağlık etap genel klasmancıların mücadelesine sahne oldu. Şampiyonluğu neredeyse garantileyen Tadej Pogacar muazzam eforunu sürdürdü. En büyük rakibi Jonas Vingegaard ile çekişmeli bir son bölüm izleten Pogacar, 2024 Tour de France taki 5. etap galibiyetini kutladı. <img src="https://img.aso.fr/core_app/img-cycling-tdf-png/header-hp-stage-20-min/60838/0:0,2000:890-2400-0-70/50e2d">',
+            description: 'Son dağlık etap genel klasmancıların mücadelesine sahne oldu. Şampiyonluğu neredeyse garantileyen Tadej Pogacar muazzam eforunu sürdürdü. En büyük rakibi Jonas Vingegaard ile çekişmeli bir son bölüm izleten Pogacar, 2024 Tour de France`daki 5. etap galibiyetini kutladı. <img src="https://img.aso.fr/core_app/img-cycling-tdf-png/header-hp-stage-20-min/60838/0:0,2000:890-2400-0-70/50e2d">',
             location: {
                 center: [7.046,44.089],
                 zoom: 13,
@@ -836,7 +836,7 @@ var config = {
             hidden: false,
             title: 'Etap 21',
             image: 'https://img.aso.fr/core_app/img-cycling-tdf-jpg/21/54060/0:0,1005:603-960-0-90/85462',
-            description: 'Kuruluşundan beri her sene Paris te bir geçit töreni gibi geçen son etap, turun 2024 Paris olimpiyatlarıyla çakışması sebebiyle, alışılmışın aksine Monaco-Nice arası rekabetçi bir bireysel zamana karşı ile son buldu.',
+            description: 'Kuruluşundan beri her sene Paris`te bir geçit töreni gibi geçen son etap, turun 2024 Paris olimpiyatlarıyla çakışması sebebiyle, alışılmışın aksine Monaco-Nice arası rekabetçi bir bireysel zamana karşı ile son buldu.',
             location: {
                 center: [7.420,43.734],
                 zoom: 15,
@@ -874,7 +874,7 @@ var config = {
             hidden: false,
             title: 'Tadej Pogacar üçüncü kez Tour de France şampiyonu oldu',
             image: 'https://pbs.twimg.com/media/GTB268EWsAEvC6Z?format=jpg&name=large',
-            description: '25 yaşındaki Pogacar, Tour de France 2024ü, Vingegaard ın 6 dakika 17 saniye önünde tamamladı.',
+            description: '25 yaşındaki Pogacar, Tour de France 2024`ü, Vingegaard`ın 6 dakika 17 saniye önünde tamamladı.',
             location: {
                 center: [3.52341, 46.31748],
                 zoom: 5,
@@ -893,7 +893,7 @@ var config = {
             hidden: false,
             title: 'Vingegaard ikinci, Evenepoel üçüncü oldu',
             image: 'https://img.aso.fr/core_app/img-cycling-tdf-jpg/arrivee-023/61100/0:0,1200:800-1000-0-70/1638f',
-            description: 'Jonas Vingegaard büyük kaza sonrası kısa sürede geldiği Tour de France i ikinci tamamlayarak büyük bir başarıya imza attı. Remco Evenepoel ise ilk Tour de France ini üçüncü tamamladı.',
+            description: 'Jonas Vingegaard büyük kaza sonrası kısa sürede geldiği Tour de France`ı ikinci tamamlayarak büyük bir başarıya imza attı. Remco Evenepoel ise ilk Tour de France`ını üçüncü tamamladı.',
             location: {
                 center: [3.52341, 46.31748],
                 zoom: 5,
@@ -912,7 +912,7 @@ var config = {
             hidden: false,
             title: 'Giro-Tour dublesi',
             image: 'https://img.aso.fr/core_app/img-cycling-tdf-jpg/arrivee-008/61086/0:0,1200:797-1000-0-70/d172e',
-            description: 'Tadej Pogacar aynı yıl içinde Giro ve Tour de France kazanarak 38 yıl sonra bir ilke imza attı.',
+            description: 'Tadej Pogacar aynı yıl içinde Giro ve Tour de France kazanarak 26 yıl sonra bir ilke imza attı.',
             location: {
                 center: [3.52341, 46.31748],
                 zoom: 5,
